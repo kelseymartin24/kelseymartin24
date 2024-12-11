@@ -1,4 +1,13 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Hi, I'm Kelsey Martin.
+
+🌉 I'm currently located in San Francisco and looking to transition into a fulltime Data Analyst. My prior jobs have always had an element of data analysis and been my favorite projects to work on. 
+
+📈 I have a love database design and data visulization and even enjoy cleaning data and getting deep into the nitty gritty of it.
+
+<h3>TOOLS</h3>
+Languages: SQL, Python, Visual Basic</br>
+Visualization: Power BI</br>
+Database: Learning PostgreSQL and DBeaver</br>
 
 <!--
 **kelseymartin24/kelseymartin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
